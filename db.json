@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "b12c",
+      "name": "Redmi",
+      "price": "200",
+      "number": "te4t4e",
+      "brand": "samsung",
+      "color": "pink"
+    },
+    {
+      "id": "5d8a",
+      "name": "iphone",
+      "price": "3223323",
+      "number": "3232",
+      "brand": "samsung",
+      "color": "selver"
+    }
+  ]
+}
